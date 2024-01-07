@@ -1,0 +1,30 @@
+@font-face {
+    font-family: RetroGaming;
+    src: url("./Retro\ Gaming.ttf");
+}
+
+body {
+    font-family: RetroGaming, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background-color: #1A1A2E;
+    color: #E6E6E6;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+}
+
+
+a {
+    color: #E94560;
+    text-decoration: none;
+    display: inline-block;
+    margin: 10px;
+    transition: color 0.3s;
+
+    &:hover {
+        color: #9c2f40;
+    }
+}
