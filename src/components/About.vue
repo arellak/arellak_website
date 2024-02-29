@@ -9,7 +9,7 @@ import ProfilePhoto from './ProfilePhoto.vue';
         <div class="about-text">
             <h1>arellak</h1>
             <p>
-                I'm a developer from Germany with focus on web development. On the other side I'm trying (and failing) to write my own game engine in C++ using RayLib.
+                I'm a developer from Germany with focus on web development. On the other hand, I'm trying (and failing) to write my own game engine in C++ using RayLib.
                 Passionate about Anime and Games.
                 I enjoy creating solutions that embrace functionality and also tend to take way too much time to complete. Feel free to explore my portfolio further to see my work:
             </p>
