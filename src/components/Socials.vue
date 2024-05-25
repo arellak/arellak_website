@@ -7,7 +7,7 @@ import TelegramIcon from "./icons/IconTelegram.vue";
 <template>
     <div class="socialsContainer">
         <GitHubIcon username="arellak" />
-        <EmailIcon email="nimble0@protonmail.com" />
+        <EmailIcon email="marcel@arellak.de" />
         <TelegramIcon username="arellak" />
     </div>
 </template>
